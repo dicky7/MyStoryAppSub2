@@ -1,0 +1,75 @@
+<resources>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_name" translatable="false">MyStory</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    //splash screen
+    <string name="tittle_menu1">Start Traveling Right Now!</string>
+    <string name="desc_menu1">Tired of Your Life? Start Traveling is the best solution</string>
+    <string name="bt_start_now">Start Right Now!</string>
+    <string name="tittle_menu2">Stay Connected To Social Media</string>
+    <string name="desc_menu2">Wherever you are, capture every moment of every vacation or your daily activities</string>
+    <string name="title_menu3">Start Uploading Your Story Now!</string>
+    <string name="desc_menu3">Come on, dont want to miss to upload all your precious moments, Upload it Now!</string>
+
+    //sign page
+    <string name="title_sign">Sign In</string>
+    <string name="desc_sign_in">Come on join with us and share every moment with your friend, Right Now!</string>
+    <string name="email">Email</string>
+    <string name="error_email">Please input valid email</string>
+    <string name="passowrd">Password</string>
+    <string name="error_pasword">Please input password minimum 6 words</string>
+    <string name="signin_to_signup">dont have account yet?<font color="#F06292"> Sign Up</font></string>
+
+    //sign up page
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="error_username">Please input username</string>
+    <string name="sign_up_to_sign">Have an Account?<font color="#F06292"> Sign In</font></string>
+
+    //dialog sign and up
+    <string name="success">Success!</string>
+    <string name="ok">Ok</string>
+    <string name="failed">Failed!</string>
+    <string name="desc_success_login">You have successfully logged in, start upload your stories</string>
+    <string name="desc_failed_login">Sorry login Failed</string>
+    <string name="desc_success_register">You have successfully register, please login first</string>
+    <string name="desc_failed_register">Sorry register Failed</string>
+
+    //home
+    <string name="hi_user">Hallo, %s</string>
+    <string name="dummy_name" translatable="false">Dicky Widya</string>
+    <string name="dummy_date" translatable="false">kamis, 20 desember 2020</string>
+    <string name="dummy_desc">Happy holiday everyone</string>
+
+    //addStory
+    <string name="permission">Not getting access permissions.</string>
+    <string name="edt_description">Description</string>
+    <string name="add_description">*Add Description</string>
+    <string name="choose">Choose</string>
+    <string name="choose_picture_gallery">Choose a Picture</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="error_description">Please input description story</string>
+    <string name="error_pick_image">Please Pick an imgae from gallery or your camera</string>
+    <string name="desc_success_upload_story">You have successfully upload a Story, discover people story</string>
+
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="message_cancel">Do you want cancel to upload story?</string>
+    <string name="setting_language">Setting Language</string>
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+
+    //loading
+    <string name="retry">Try Again</string>
+    <string name="text_error">Sorry, Something is wrong!</string>
+
+    //Maps
+    <string name="maps">Maps</string>
+    <string name="save">Save</string>
+    <string name="no_location_selected">No Location Selected</string>
+    <string name="change">Change</string>
+    <string name="current_location">Current Location Lat: %s, Lng: %s</string>
+
+</resources>

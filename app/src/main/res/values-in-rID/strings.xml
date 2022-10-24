@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tittle_menu1">Mulai Liburan Sekarang Juga!</string>
+    <string name="desc_menu1">Bosan dengan Hidup Anda? Mulai Bepergian adalah solusi terbaik</string>
+    <string name="bt_start_now">Mulai Sekarang!</string>
+    <string name="tittle_menu2">Tetap Terhubung Dengan Media Sosial</string>
+    <string name="desc_menu2">Dimanapun anda berada, abadikan setiap momen setiap liburan atau kegiatan anda sehari-hari</string>
+    <string name="title_menu3">Mulai Unggah Cerita Anda Sekarang!</string>
+    <string name="desc_menu3">Yuk, jangan sampai ketinggalan untuk mengupload semua momen berhargamu, Upload Now!</string>
+    <string name="title_sign">masuk</string>
+    <string name="desc_sign_in">Ayo bergabung bersama kami dan berbagi setiap momen dengan teman Anda, Sekarang Juga!</string>
+    <string name="email">Email</string>
+    <string name="error_email">mohon masukan email yang valid</string>
+    <string name="passowrd">Password</string>
+    <string name="error_pasword">Silahkan masukan password minimal 6 kata</string>
+    <string name="signin_to_signup">belum punya akun?<font color="#F06292"> Daftar</font></string>
+    <string name="login">Login</string>
+    <string name="sign_up">Daftar</string>
+    <string name="username">Nama Penggubna</string>
+    <string name="error_username">Silakan masukkan nama pengguna</string>
+    <string name="sign_up_to_sign">Punya Akun?<font color="#F06292"> Masuk</font></string>
+    <string name="success">Sukses!</string>
+    <string name="ok">Ok</string>
+    <string name="failed">Gagal</string>
+    <string name="desc_success_login">Anda telah berhasil masuk, mulai unggah cerita Anda</string>
+    <string name="desc_failed_login">maaf login gagal maaf</string>
+    <string name="desc_success_register">Anda telah berhasil daftar, silahkan login terlebih dahulu</string>
+    <string name="desc_failed_register">Maaf daftar Gagal</string>
+    <string name="hi_user">Hallo, %s</string>
+    <string name="dummy_desc">selamat liburan semuanya</string>
+    <string name="permission">Tidak mendapatkan izin akses.</string>
+    <string name="edt_description">Deskripsi</string>
+    <string name="add_description">*Tambahkan deskripsi</string>
+    <string name="choose">Pilih</string>
+    <string name="choose_picture_gallery">Pilih Gambar</string>
+    <string name="upload_story">Unggah Cerita</string>
+    <string name="error_description">Silahkan masukan deskripsi cerita</string>
+    <string name="error_pick_image">Silakan Pilih gambar dari galeri atau kamera Anda</string>
+    <string name="desc_success_upload_story">Anda telah berhasil mengunggah Cerita, temukan cerita orang</string>
+    <string name="yes">ya</string>
+    <string name="no">tidak</string>
+    <string name="cancel">Batal</string>
+    <string name="message_cancel">Apakah Anda ingin membatalkan pengunggahan cerita?</string>
+    <string name="setting_language">Pengaturan Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="register">Daftar</string>
+    <string name="retry">Coba Lagi</string>
+</resources>

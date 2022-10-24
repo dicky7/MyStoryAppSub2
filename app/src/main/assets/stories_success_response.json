@@ -1,0 +1,96 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-ARsI0vNqBvbKhGsC",
+      "name": "Kevin",
+      "description": "nct in the house ",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658410217424_D9sXzKim.jpg",
+      "createdAt": "2022-07-21T13:30:17.426Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-ecjlCgIQQCTF418P",
+      "name": "Kevinq",
+      "description": "nct in the house ",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658410206595_k1Nkff4W.jpg",
+      "createdAt": "2022-07-21T13:30:06.597Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-r8LtuzVQ5Ua01s38",
+      "name": "Kevinw",
+      "description": "haiii aku echan ",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658410175431_hSQvhN7O.jpg",
+      "createdAt": "2022-07-21T13:29:35.435Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-PWwRhmOt2f05mFzC",
+      "name": "Kevinn",
+      "description": "wouuu",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658407692241_kTJe7mGS.jpg",
+      "createdAt": "2022-07-21T12:48:12.244Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-H5I_dp--JZ5AezKt",
+      "name": "fenfenrew",
+      "description": "\"dfdd\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658401989581_3bNWwDQg.jpg",
+      "createdAt": "2022-07-21T11:13:09.583Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-iDL8a2yAuwNX0_VA",
+      "name": "fenfenreq",
+      "description": "\"cgdhgg\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658401940361_Gw9tD5xa.jpg",
+      "createdAt": "2022-07-21T11:12:20.363Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-LH6Kv_Er-PKulFB1",
+      "name": "fenfenreee",
+      "description": "\"sjlggfdggccc\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658401892363_kQGJRqWq.jpg",
+      "createdAt": "2022-07-21T11:11:32.364Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-ucmiA3whaVYPLT8-",
+      "name": "fenfenree",
+      "description": "\"zzv\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658401809548_r1YiXX2d.jpg",
+      "createdAt": "2022-07-21T11:10:09.550Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-UOqw2xVTZteZIpBj",
+      "name": "fenfenred",
+      "description": "\"haiiii\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658401662313_SysYAVc_.jpg",
+      "createdAt": "2022-07-21T11:07:42.315Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-dcMy6rRSxnKLaymw",
+      "name": "fenfenres",
+      "description": "\"haiiii\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1658401589310_J-Vx2SpG.jpg",
+      "createdAt": "2022-07-21T11:06:29.311Z",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
